@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmallApp</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="your_message_here">Your message here</string>
+    <string name="example_phone_number">eg: 0466151364</string>
+    <string name="from">From</string>
+
+</resources>
